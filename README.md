@@ -1,2 +1,2 @@
 # ArtAtoZ
-Hi I'm Kendal
+Hi I'm Kendal!
